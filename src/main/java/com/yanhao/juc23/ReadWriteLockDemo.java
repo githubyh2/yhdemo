@@ -14,11 +14,16 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
  * 读-写 不可以共存
  * 写-写 不可以共存
  */
+
+/**
+ * 加锁的缓存
+ */
 class MyCacheLock {
     private volatile Map<String, Object> map = new HashMap<>();
     //读写锁：更加细粒度的控制
     private ReadWriteLock readWriteLock = new ReentrantReadWriteLock();
 
+    //存放= 写入：只希望同时只有一个线程写
     public void put(String key, Object value) {
         readWriteLock.writeLock().lock();
         try {
@@ -40,6 +45,7 @@ class MyCacheLock {
 
     }
 
+    //取=  读取：所有人都可以读
     public void get(String key) {
         readWriteLock.readLock().lock();
         try {
