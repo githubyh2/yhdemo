@@ -19,6 +19,8 @@ public class CyclicBarrierDemo {
         });
 
         for (int i = 1; i <= 7; i++) {
+
+            //Lambad Express 变量需要被 final 修饰
             final int temp = i;
             new Thread(() -> {
                 System.out.println(Thread.currentThread().getName() + "---------" + temp);
@@ -29,7 +31,7 @@ public class CyclicBarrierDemo {
                 } catch (BrokenBarrierException e) {
                     throw new RuntimeException(e);
                 }
-            }).start();
+            }, String.valueOf(i)).start();
         }
     }
 }
