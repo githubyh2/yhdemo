@@ -4,6 +4,7 @@ package com.yanhao.juc23;
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.FutureTask;
+import java.util.concurrent.TimeUnit;
 
 /**
  * Runnable 和 Callable 接口的区别：
@@ -19,6 +20,12 @@ class Mythread implements Callable<Integer> {
     @Override
     public Integer call() throws Exception {
         System.out.println("*******come in method()");
+        //暂停一会儿线程
+        try {
+            TimeUnit.SECONDS.sleep(4);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         return 1024;
     }
 }
@@ -37,7 +44,11 @@ public class CallableDemo {
         FutureTask<Integer> futureTask = new FutureTask(new Mythread());
 
         new Thread(futureTask, "A").start();
+        new Thread(futureTask, "B").start();//结果会被缓存，效率高
 
+        System.out.println(Thread.currentThread().getName() + "*****计算完成");
+
+        //get 方法一般放在最后   get()可能会产生阻塞，放在最后一行，或者使用异步通信处理
         //从FutureTask中获取返回值
         Integer result = futureTask.get();
 
