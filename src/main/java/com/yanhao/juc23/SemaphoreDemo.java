@@ -10,7 +10,7 @@ public class SemaphoreDemo {
         //模拟资源类，有3个空车位
         Semaphore semaphore = new Semaphore(3);
 
-
+        //模拟6辆汽车抢车位
         for (int i = 1; i <= 6; i++) {
             new Thread(() -> {
                 try {
