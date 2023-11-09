@@ -12,6 +12,8 @@ package com.yanhao.jvm23;
  * <p>
  * 用户自定义加载器：
  * java.lang.ClassLoader的子类
+ * <p>
+ * 抽象类只能被继承
  */
 public class MyObject {
     public static void main(String[] args) {
@@ -19,12 +21,11 @@ public class MyObject {
         //null
         System.out.println(o.getClass().getClassLoader());
 
-
         MyObject myObject = new MyObject();
         //bootStrap--->null
-        System.out.println("parent.parent :" + myObject.getClass().getClassLoader().getParent().getParent());
+        System.out.println("parent.parent ->" + myObject.getClass().getClassLoader().getParent().getParent());
         //Extension--->sun.misc.Launcher$ExtClassLoader@4361bd48
-        System.out.println("parent:" + myObject.getClass().getClassLoader().getParent());
+        System.out.println("parent ->" + myObject.getClass().getClassLoader().getParent());
         //AppClassLoader--->sun.misc.Launcher$AppClassLoader@18b4aac2
         System.out.println(myObject.getClass().getClassLoader());
 
