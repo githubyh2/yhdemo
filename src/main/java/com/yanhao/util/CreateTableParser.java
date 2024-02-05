@@ -28,6 +28,7 @@ public class CreateTableParser {
 
         // 正确调用
         String s = convertCommentToChinese(createTableStatement);
+        // 输出语句
         System.out.println("===" + s);
     }
 
