@@ -28,5 +28,6 @@ public class SqlAdapterTest {
 
 
         System.out.println(mySqlAdapter.javaToSQLType(String.class));
+        System.out.println(oracleAdapter.javaToSQLType(Integer.class));
     }
 }
