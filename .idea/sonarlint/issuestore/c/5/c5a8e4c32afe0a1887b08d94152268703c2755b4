@@ -1,0 +1,12 @@
+
+`	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.( Ú†¦üÿÿÿÿ
+`	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.( Ú†¦üÿÿÿÿ
+`	java:S112]"FDefine and throw a dedicated exception instead of using a generic one.( Ú†¦üÿÿÿÿ
+z
+java:S1192,"_Define a constant instead of duplicating this literal "ä¸‹æ ‡ç´¢å¼•è¶Šç•Œã€‚ã€‚ã€‚ã€‚" 3 times.( Ú†¦üÿÿÿÿ
+o
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¯÷›â
+@	java:S106%"+Replace this use of System.out by a logger.(¯ı®ö
+h	java:S100c"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œª™’úÿÿÿÿ
+c	java:S100o"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—è¤á
+E	java:S106r"+Replace this use of System.out by a logger.(Îæµøÿÿÿÿ

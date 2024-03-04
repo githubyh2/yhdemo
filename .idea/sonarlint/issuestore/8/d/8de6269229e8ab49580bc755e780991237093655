@@ -1,0 +1,8 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(Ú·áÙøÿÿÿÿ8Ç©€İ1
+h
+java:S5998"LRefactor this repetition that can lead to a stack overflow for large inputs.(é‹q8É©€İ1
+]	java:S125."<This block of commented-out lines of code should be removed.(œê˜ÿÿÿÿÿ8Ì©€İ1
+]	java:S125["<This block of commented-out lines of code should be removed.(ÑËé™øÿÿÿÿ8Ğ©€İ1
+\
+java:S11441":Remove this unused private "convertFieldSeparator" method.(ø¬‰ıÿÿÿÿ8Ñ©€İ1

@@ -1,0 +1,29 @@
+
+z
+java:S11928"dDefine a constant instead of duplicating this literal "-----------------------------------" 4 times.(ÙŒÉ
+]
+java:S1192"GDefine a constant instead of duplicating this literal "feifei" 3 times.(ÎÛ¡è
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ç˜È³ÿÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı¯âR
+@	java:S106"+Replace this use of System.out by a logger.(àÃğº
+@	java:S106"+Replace this use of System.out by a logger.(Œ²‡
+@	java:S106 "+Replace this use of System.out by a logger.(÷ ì²
+@	java:S106!"+Replace this use of System.out by a logger.(µˆœÑ
+E	java:S106#"+Replace this use of System.out by a logger.(ï¯ÔÅùÿÿÿÿ
+E	java:S106$"+Replace this use of System.out by a logger.(‰©ó¥ıÿÿÿÿ
+@	java:S106&"+Replace this use of System.out by a logger.(Ğ—Íè
+?	java:S106)"+Replace this use of System.out by a logger.(ı¿—n
+@	java:S106,"+Replace this use of System.out by a logger.(Ÿ®¹ú
+E	java:S106/"+Replace this use of System.out by a logger.(Ë°—Æÿÿÿÿÿ
+@	java:S1061"+Replace this use of System.out by a logger.(œ÷¸è
+@	java:S1062"+Replace this use of System.out by a logger.(Ù„ßÊ
+E	java:S1065"+Replace this use of System.out by a logger.(Í¸âÿøÿÿÿÿ
+E	java:S1067"+Replace this use of System.out by a logger.(ùÀ¯éşÿÿÿÿ
+@	java:S1068"+Replace this use of System.out by a logger.(ÙŒÉ
+E	java:S106>"+Replace this use of System.out by a logger.(ÇØ»Éüÿÿÿÿ
+@	java:S106@"+Replace this use of System.out by a logger.(ÙŒÉ
+E	java:S106F"+Replace this use of System.out by a logger.(ì¿Áüÿÿÿÿ
+@	java:S106I"+Replace this use of System.out by a logger.(ÙŒÉ
+E	java:S106O"+Replace this use of System.out by a logger.(›²şÿÿÿÿ
+@	java:S106Q"+Replace this use of System.out by a logger.(ÙŒÉ
+?	java:S106V"+Replace this use of System.out by a logger.(Êãå

@@ -1,0 +1,70 @@
+
+o
+java:S2293t"YReplace the type specification in this constructor call with the diamond operator ("<>").(«üÎŒ
+[
+java:S1192."FDefine a constant instead of duplicating this literal "\\s +" 3 times.(øßú
+c
+java:S1192["HDefine a constant instead of duplicating this literal "COMMENT" 3 times.(œŽªûÿÿÿÿ
+b
+java:S1192:"GDefine a constant instead of duplicating this literal ">>>>>>" 3 times.(òÜßÕþÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÕÌÁÂúÿÿÿÿ
+E	java:S106&"+Replace this use of System.out by a logger.(Ï›Ëˆþÿÿÿÿ
+V	java:S125""<This block of commented-out lines of code should be removed.(“ØÛ–üÿÿÿÿ
+]
+java:S5361."HReplace this call to "replaceAll()" by a call to the "replace()" method.(øßú
+E	java:S1060"+Replace this use of System.out by a logger.(µ­÷ˆûÿÿÿÿ
+E	java:S1064"+Replace this use of System.out by a logger.(¢®¿Õøÿÿÿÿ
+E	java:S106:"+Replace this use of System.out by a logger.(òÜßÕþÿÿÿÿ
+E	java:S106="+Replace this use of System.out by a logger.(êÅÌÎüÿÿÿÿ
+V	java:S125@"<This block of commented-out lines of code should be removed.(ˆïÏïùÿÿÿÿ
+E	java:S106I"+Replace this use of System.out by a logger.(ûµÈ¬ýÿÿÿÿ
+E	java:S106M"+Replace this use of System.out by a logger.(¹•–Øøÿÿÿÿ
+V	java:S125N"<This block of commented-out lines of code should be removed.(û† ëþÿÿÿÿ
+E	java:S106S"+Replace this use of System.out by a logger.(ñ’ÿüÿÿÿÿ
+E	java:S106V"+Replace this use of System.out by a logger.(´„¨™ýÿÿÿÿ
+V	java:S125W"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+P	java:S125Z"<This block of commented-out lines of code should be removed.(›©äC
+Q	java:S125\"<This block of commented-out lines of code should be removed.(±ˆºÜ
+c
+java:S5361^"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ïêô€þÿÿÿÿ
+@	java:S106`"+Replace this use of System.out by a logger.(Ø·î 
+Q	java:S125_"<This block of commented-out lines of code should be removed.(øÇÿ£
+E	java:S106a"+Replace this use of System.out by a logger.(ƒÇãˆúÿÿÿÿ
+m
+java:S3776i"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(¨Ïøªúÿÿÿÿ
+]
+java:S5361k"HReplace this call to "replaceAll()" by a call to the "replace()" method.(øßú
+?	java:S106m"+Replace this use of System.out by a logger.(õ‚½#
+E	java:S106q"+Replace this use of System.out by a logger.(þºÜˆúÿÿÿÿ
+?	java:S106w"+Replace this use of System.out by a logger.(÷Çœ|
+@	java:S106y"+Replace this use of System.out by a logger.(§Öžé
+@	java:S106~"+Replace this use of System.out by a logger.(ËýóÃ
+F	java:S106‡"+Replace this use of System.out by a logger.(ÇÍ¯Êüÿÿÿÿ
+F	java:S106Š"+Replace this use of System.out by a logger.(òÜßÕþÿÿÿÿ
+F	java:S106"+Replace this use of System.out by a logger.(êÅÌÎüÿÿÿÿ
+F	java:S106•"+Replace this use of System.out by a logger.(ûµÈ¬ýÿÿÿÿ
+F	java:S106˜"+Replace this use of System.out by a logger.(¹•–Øøÿÿÿÿ
+F	java:S106œ"+Replace this use of System.out by a logger.(È·­Îùÿÿÿÿ
+F	java:S106Ÿ"+Replace this use of System.out by a logger.(Õ›ýéûÿÿÿÿ
+F	java:S106ª"+Replace this use of System.out by a logger.(øË²þÿÿÿÿ
+_
+java:S5361¬"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ÓºÏè
+A	java:S106­"+Replace this use of System.out by a logger.(ôå›†
+_
+java:S5361·"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ÓºÏè
+F	java:S106¸"+Replace this use of System.out by a logger.(×­Šúÿÿÿÿ
+W	java:S125Ã"<This block of commented-out lines of code should be removed.(ˆ•Ã‡ùÿÿÿÿ
+A	java:S106ò"+Replace this use of System.out by a logger.(˜ûÞá
+A	java:S106õ"+Replace this use of System.out by a logger.(“»–Ð
+F	java:S106û"+Replace this use of System.out by a logger.(¶Š€¾þÿÿÿÿ
+A	java:S106þ"+Replace this use of System.out by a logger.(îˆÕÂ
+F	java:S106ˆ"+Replace this use of System.out by a logger.(ßåÛ™þÿÿÿÿ
+F	java:S106"+Replace this use of System.out by a logger.(ÿŽÿºýÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.( „º˜ùÿÿÿÿ
+d
+java:S5361›"HReplace this call to "replaceAll()" by a call to the "replace()" method.(€å•”øÿÿÿÿ
+d
+java:S5361™"HReplace this call to "replaceAll()" by a call to the "replace()" method.(—Ê˜Ñüÿÿÿÿ
+@	java:S106ž"+Replace this use of System.out by a logger.(õ‚½#
+A	java:S106§"+Replace this use of System.out by a logger.(òÙ›Ÿ
+F	java:S106­"+Replace this use of System.out by a logger.(òÜßÕþÿÿÿÿ

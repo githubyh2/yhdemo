@@ -1,0 +1,12 @@
+
+o
+java:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(«üÎŒ
+]
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(øßú
+?	java:S106!"+Replace this use of System.out by a logger.(õ‚½#
+V	java:S125%"<This block of commented-out lines of code should be removed.(ý‘¡¥ùÿÿÿÿ
+V	java:S1254"<This block of commented-out lines of code should be removed.(ä¡ÂÝúÿÿÿÿ
+E	java:S106B"+Replace this use of System.out by a logger.(êÅÌÎüÿÿÿÿ
+V	java:S125E"<This block of commented-out lines of code should be removed.(¿‹±òýÿÿÿÿ
+V	java:S125G"<This block of commented-out lines of code should be removed.(’Úóýÿÿÿÿ
+@	java:S106R"+Replace this use of System.out by a logger.(ÕÒ¾¤
